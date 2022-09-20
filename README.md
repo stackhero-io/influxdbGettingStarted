@@ -5,7 +5,7 @@
 
 You can find here some examples of Node.js code to send data to an InfluxDB V2 server.
 
-These examples are designed to run with Stackhero for InfluxDB.
+These examples are designed to run with a Stackhero for InfluxDB.
 You'll more informations about Stackhero here:
 - [InfluxDB cloud](https://www.stackhero.io/en/services/InfluxDB/benefits)
 - [InfluxDB pricing](https://www.stackhero.io/en/services/InfluxDB/pricing)

@@ -66,8 +66,7 @@ const os = require('os');
   for (const temperatureRandom of temperaturesRandom) {
     const point = new Point('temperature')
       .tag('setName', 'speedTest')
-      .floatField('value', temperatureRandom)
-      .timestamp(new Date());
+      .floatField('value', temperatureRandom);
     writeApi.writePoint(point);
   }
 
